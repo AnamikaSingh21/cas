@@ -1,0 +1,48 @@
+12:07:34.184 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/sharedStrings.xml'
+12:07:34.206 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/styles.xml'
+12:07:34.207 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/workbook.xml'
+12:07:34.212 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet1.xml'
+12:07:34.215 [main] INFO  testCases.TC_003_Truetime - __Finishing TC_002_Truetime__
+13:25:21.986 [main] DEBUG testCases.TC_003_Truetime - application logs...
+13:25:23.051 [main] INFO  testCases.TC_003_Truetime - Taking ScreenShot
+13:25:23.424 [main] INFO  testCases.TC_003_Truetime - __Starting TC_001_Truetime__
+13:25:23.424 [main] INFO  testCases.TC_003_Truetime - one Cognizant validation
+13:25:23.466 [main] INFO  testCases.TC_003_Truetime - one cognizant click
+13:25:23.627 [main] INFO  testCases.TC_003_Truetime - Switching Window
+13:25:24.417 [main] INFO  testCases.TC_003_Truetime - tru time search
+13:25:27.950 [main] INFO  testCases.TC_003_Truetime - tru time click
+13:25:30.051 [main] INFO  testCases.TC_003_Truetime - Taking ScreenShot
+13:25:30.329 [main] INFO  testCases.TC_003_Truetime - Switching Frame
+13:25:40.437 [main] INFO  testCases.TC_003_Truetime - Tru time validation
+13:25:40.520 [main] INFO  testCases.TC_003_Truetime - Dates validation
+13:25:41.091 [main] INFO  testCases.TC_003_Truetime - Highlight validation
+13:25:41.157 [main] INFO  testCases.TC_003_Truetime - Printing Legends
+13:25:42.144 [main] INFO  testCases.TC_003_Truetime - validating current Date
+13:25:42.227 [main] INFO  testCases.TC_003_Truetime - validating last Date Of Truetime Topup
+13:25:42.227 [main] INFO  testCases.TC_003_Truetime - screenShot of Tru Time
+13:25:42.422 [main] INFO  testCases.TC_003_Truetime - Writing data in Apachi
+13:25:46.060 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save core properties part
+13:25:46.061 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save content types part
+13:25:46.327 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save package relationships
+13:25:46.344 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/app.xml'
+13:25:46.351 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/core.xml'
+13:25:46.368 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/sharedStrings.xml'
+13:25:46.369 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/styles.xml'
+13:25:46.370 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/workbook.xml'
+13:25:46.375 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet1.xml'
+13:25:46.379 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save content types part
+13:25:46.382 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save package relationships
+13:25:46.385 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/app.xml'
+13:25:46.386 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/core.xml'
+13:25:46.390 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/sharedStrings.xml'
+13:25:46.392 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/styles.xml'
+13:25:46.393 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/workbook.xml'
+13:25:46.398 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet1.xml'
+13:25:46.402 [main] INFO  testCases.TC_003_Truetime - __Finishing TC_002_Truetime__
+13:28:16.068 [main] DEBUG testCases.TC_003_Truetime - application logs...
+13:28:17.552 [main] INFO  testCases.TC_003_Truetime - Taking ScreenShot
+13:28:18.037 [main] INFO  testCases.TC_003_Truetime - __Starting TC_001_Truetime__
+13:28:18.038 [main] INFO  testCases.TC_003_Truetime - one Cognizant validation
+13:28:18.085 [main] INFO  testCases.TC_003_Truetime - one cognizant click
+13:28:18.281 [main] INFO  testCases.TC_003_Truetime - Switching Window
+13:28:19.274 [main] INFO  testCases.TC_003_Truetime - tru time search

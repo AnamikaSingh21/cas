@@ -1,0 +1,65 @@
+14:19:50.974 [main] INFO  testCases.TC_001_Truetime - one Cognizant veryfication
+14:19:51.146 [main] INFO  testCases.TC_001_Truetime - one cognizant click
+14:19:51.762 [main] INFO  testCases.TC_001_Truetime - tru time search
+14:20:58.227 [main] INFO  testCases.TC_001_Truetime - __Starting TC_001_Truetime__
+14:20:58.238 [main] DEBUG testCases.TC_001_Truetime - application logs....
+14:20:58.239 [main] INFO  testCases.TC_001_Truetime - account veryfication
+14:21:00.777 [main] INFO  testCases.TC_001_Truetime - one Cognizant veryfication
+14:21:00.902 [main] INFO  testCases.TC_001_Truetime - one cognizant click
+14:21:03.310 [main] INFO  testCases.TC_001_Truetime - tru time search
+14:23:46.519 [main] INFO  testCases.TC_001_Truetime - __Starting TC_001_Truetime__
+14:23:46.531 [main] DEBUG testCases.TC_001_Truetime - application logs....
+14:23:46.533 [main] INFO  testCases.TC_001_Truetime - account veryfication
+14:23:49.097 [main] INFO  testCases.TC_001_Truetime - one Cognizant veryfication
+14:23:49.552 [main] INFO  testCases.TC_001_Truetime - one cognizant click
+14:24:57.770 [main] INFO  testCases.TC_001_Truetime - __Starting TC_001_Truetime__
+14:24:57.780 [main] DEBUG testCases.TC_001_Truetime - application logs....
+14:24:57.781 [main] INFO  testCases.TC_001_Truetime - account veryfication
+14:24:59.606 [main] INFO  testCases.TC_001_Truetime - one Cognizant veryfication
+14:24:59.728 [main] INFO  testCases.TC_001_Truetime - one cognizant click
+14:25:01.251 [main] INFO  testCases.TC_001_Truetime - tru time search
+14:25:23.056 [main] INFO  testCases.TC_001_Truetime - Tru time veryfication
+14:25:23.241 [main] INFO  testCases.TC_001_Truetime - Dates veryfication
+14:25:24.384 [main] INFO  testCases.TC_001_Truetime - Printing Legends
+14:25:26.372 [main] INFO  testCases.TC_001_Truetime - verifying current Date
+14:25:26.467 [main] INFO  testCases.TC_001_Truetime - verifying last Date Of Timrtime
+14:25:26.467 [main] INFO  testCases.TC_001_Truetime - __Finishing TC_001_Truetime__
+14:27:24.225 [main] INFO  testCases.TC_001_Truetime - __Starting TC_001_Truetime__
+14:27:24.239 [main] DEBUG testCases.TC_001_Truetime - application logs....
+14:27:24.239 [main] INFO  testCases.TC_001_Truetime - account veryfication
+14:27:25.610 [main] INFO  testCases.TC_001_Truetime - one Cognizant veryfication
+14:27:25.970 [main] INFO  testCases.TC_001_Truetime - one cognizant click
+14:28:09.155 [main] INFO  testCases.TC_001_Truetime - __Starting TC_001_Truetime__
+14:28:09.166 [main] DEBUG testCases.TC_001_Truetime - application logs....
+14:28:09.167 [main] INFO  testCases.TC_001_Truetime - account veryfication
+14:29:25.344 [main] INFO  testCases.TC_001_Truetime - __Starting TC_001_Truetime__
+14:29:25.353 [main] DEBUG testCases.TC_001_Truetime - application logs....
+14:29:25.353 [main] INFO  testCases.TC_001_Truetime - account veryfication
+14:29:26.224 [main] INFO  testCases.TC_001_Truetime - one Cognizant veryfication
+14:29:26.366 [main] INFO  testCases.TC_001_Truetime - one cognizant click
+14:29:27.448 [main] INFO  testCases.TC_001_Truetime - tru time search
+14:30:41.121 [main] INFO  testCases.TC_001_Truetime - __Starting TC_001_Truetime__
+14:30:41.137 [main] DEBUG testCases.TC_001_Truetime - application logs....
+14:30:41.138 [main] INFO  testCases.TC_001_Truetime - account veryfication
+14:30:42.906 [main] INFO  testCases.TC_001_Truetime - one Cognizant veryfication
+14:30:43.024 [main] INFO  testCases.TC_001_Truetime - one cognizant click
+14:31:46.196 [main] INFO  testCases.TC_001_Truetime - __Starting TC_001_Truetime__
+14:31:46.280 [main] DEBUG testCases.TC_001_Truetime - application logs....
+14:31:46.281 [main] INFO  testCases.TC_001_Truetime - account veryfication
+14:31:48.046 [main] INFO  testCases.TC_001_Truetime - one Cognizant veryfication
+14:31:48.262 [main] INFO  testCases.TC_001_Truetime - one cognizant click
+14:31:49.163 [main] INFO  testCases.TC_001_Truetime - tru time search
+15:35:48.436 [main] INFO  testCases.TC_001_Truetime - __Starting TC_001_Truetime__
+15:35:48.450 [main] DEBUG testCases.TC_001_Truetime - application logs....
+15:35:48.451 [main] INFO  testCases.TC_001_Truetime - account veryfication
+15:35:51.194 [main] INFO  testCases.TC_001_Truetime - one Cognizant veryfication
+15:35:51.305 [main] INFO  testCases.TC_001_Truetime - one cognizant click
+15:35:53.892 [main] INFO  testCases.TC_001_Truetime - tru time search
+15:36:10.334 [main] INFO  testCases.TC_001_Truetime - Tru time veryfication
+15:36:10.659 [main] INFO  testCases.TC_001_Truetime - Dates veryfication
+15:36:12.157 [main] INFO  testCases.TC_001_Truetime - Printing Legends
+15:36:14.224 [main] INFO  testCases.TC_001_Truetime - verifying current Date
+15:36:14.381 [main] INFO  testCases.TC_001_Truetime - verifying last Date Of Timrtime
+15:36:14.382 [main] INFO  testCases.TC_001_Truetime - __Finishing TC_001_Truetime__
+15:37:56.676 [main] INFO  testCases.TC_001_Truetime - __Starting TC_001_Truetime__
+15:37:56.692 [main] DEBUG testCases.TC_001_Truetime - application logs....

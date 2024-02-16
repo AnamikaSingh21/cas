@@ -1,0 +1,58 @@
+06:27:23.559 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save content types part
+06:27:23.894 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save package relationships
+06:27:23.912 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/app.xml'
+06:27:23.920 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/core.xml'
+06:27:23.935 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/sharedStrings.xml'
+06:27:23.936 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/styles.xml'
+06:27:23.940 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/workbook.xml'
+06:27:23.946 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet1.xml'
+06:27:23.950 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save content types part
+06:27:23.953 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save package relationships
+06:27:23.956 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/app.xml'
+06:27:23.957 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/core.xml'
+06:27:23.961 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/sharedStrings.xml'
+06:27:23.962 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/styles.xml'
+06:27:23.962 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/workbook.xml'
+06:27:23.966 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet1.xml'
+06:27:23.969 [main] INFO  testCases.TC_003_Truetime - __Finishing TC_002_Truetime__
+10:23:41.508 [main] DEBUG testCases.TC_003_Truetime - application logs...
+10:23:43.436 [main] INFO  testCases.TC_003_Truetime - Taking ScreenShot
+10:23:44.113 [main] INFO  testCases.TC_003_Truetime - __Starting TC_001_Truetime__
+10:23:44.114 [main] INFO  testCases.TC_003_Truetime - one Cognizant validation
+10:23:44.233 [main] INFO  testCases.TC_003_Truetime - one cognizant click
+10:23:44.657 [main] INFO  testCases.TC_003_Truetime - Switching Window
+10:23:45.581 [main] INFO  testCases.TC_003_Truetime - tru time search
+10:23:50.491 [main] INFO  testCases.TC_003_Truetime - tru time click
+10:23:52.735 [main] INFO  testCases.TC_003_Truetime - Taking ScreenShot
+10:23:53.078 [main] INFO  testCases.TC_003_Truetime - Switching Frame
+12:07:07.913 [main] DEBUG testCases.TC_003_Truetime - application logs...
+12:07:08.920 [main] INFO  testCases.TC_003_Truetime - Taking ScreenShot
+12:07:09.739 [main] INFO  testCases.TC_003_Truetime - __Starting TC_001_Truetime__
+12:07:09.739 [main] INFO  testCases.TC_003_Truetime - one Cognizant validation
+12:07:09.788 [main] INFO  testCases.TC_003_Truetime - one cognizant click
+12:07:10.013 [main] INFO  testCases.TC_003_Truetime - Switching Window
+12:07:12.478 [main] INFO  testCases.TC_003_Truetime - tru time search
+12:07:15.925 [main] INFO  testCases.TC_003_Truetime - tru time click
+12:07:18.071 [main] INFO  testCases.TC_003_Truetime - Taking ScreenShot
+12:07:18.443 [main] INFO  testCases.TC_003_Truetime - Switching Frame
+12:07:28.552 [main] INFO  testCases.TC_003_Truetime - Tru time validation
+12:07:28.641 [main] INFO  testCases.TC_003_Truetime - Dates validation
+12:07:29.275 [main] INFO  testCases.TC_003_Truetime - Highlight validation
+12:07:29.352 [main] INFO  testCases.TC_003_Truetime - Printing Legends
+12:07:30.301 [main] INFO  testCases.TC_003_Truetime - validating current Date
+12:07:30.367 [main] INFO  testCases.TC_003_Truetime - validating last Date Of Truetime Topup
+12:07:30.368 [main] INFO  testCases.TC_003_Truetime - screenShot of Tru Time
+12:07:30.578 [main] INFO  testCases.TC_003_Truetime - Writing data in Apachi
+12:07:33.851 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save core properties part
+12:07:33.852 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save content types part
+12:07:34.086 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save package relationships
+12:07:34.127 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/app.xml'
+12:07:34.139 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/core.xml'
+12:07:34.158 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/sharedStrings.xml'
+12:07:34.159 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/styles.xml'
+12:07:34.160 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/workbook.xml'
+12:07:34.164 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet1.xml'
+12:07:34.168 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save content types part
+12:07:34.172 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save package relationships
+12:07:34.176 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/app.xml'
+12:07:34.177 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/core.xml'

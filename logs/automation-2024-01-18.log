@@ -1,0 +1,61 @@
+16:43:59.272 [main] INFO  testCases.TC_003_Truetime - Writing data in Apachi
+16:44:36.394 [main] DEBUG testCases.TC_003_Truetime - application logs...
+16:44:37.760 [main] INFO  testCases.TC_003_Truetime - Taking ScreenShot
+16:44:38.668 [main] INFO  testCases.TC_003_Truetime - __Starting TC_001_Truetime__
+16:44:38.669 [main] INFO  testCases.TC_003_Truetime - one Cognizant validation
+16:44:38.979 [main] INFO  testCases.TC_003_Truetime - one cognizant click
+16:44:39.588 [main] INFO  testCases.TC_003_Truetime - Switching Window
+16:44:40.518 [main] INFO  testCases.TC_003_Truetime - tru time search
+16:44:45.523 [main] INFO  testCases.TC_003_Truetime - tru time click
+16:44:47.766 [main] INFO  testCases.TC_003_Truetime - Taking ScreenShot
+16:44:48.177 [main] INFO  testCases.TC_003_Truetime - Switching Frame
+16:44:58.320 [main] INFO  testCases.TC_003_Truetime - Tru time validation
+16:44:58.449 [main] INFO  testCases.TC_003_Truetime - Dates validation
+16:44:59.409 [main] INFO  testCases.TC_003_Truetime - Highlight validation
+16:44:59.507 [main] INFO  testCases.TC_003_Truetime - Printing Legends
+16:45:01.596 [main] INFO  testCases.TC_003_Truetime - validating current Date
+16:45:01.773 [main] INFO  testCases.TC_003_Truetime - validating last Date Of Truetime Topup
+16:45:01.774 [main] INFO  testCases.TC_003_Truetime - screenShot of Tru Time
+16:45:02.121 [main] INFO  testCases.TC_003_Truetime - Writing data in Apachi
+16:45:47.971 [main] DEBUG testCases.TC_003_Truetime - application logs...
+16:45:50.890 [main] INFO  testCases.TC_003_Truetime - Taking ScreenShot
+16:45:51.763 [main] INFO  testCases.TC_003_Truetime - __Starting TC_001_Truetime__
+16:45:51.764 [main] INFO  testCases.TC_003_Truetime - one Cognizant validation
+16:45:51.974 [main] INFO  testCases.TC_003_Truetime - one cognizant click
+16:45:52.821 [main] INFO  testCases.TC_003_Truetime - Switching Window
+16:45:55.379 [main] INFO  testCases.TC_003_Truetime - tru time search
+16:45:58.378 [main] INFO  testCases.TC_003_Truetime - tru time click
+16:46:00.651 [main] INFO  testCases.TC_003_Truetime - Taking ScreenShot
+16:46:00.947 [main] INFO  testCases.TC_003_Truetime - Switching Frame
+16:46:11.137 [main] INFO  testCases.TC_003_Truetime - Tru time validation
+16:46:11.301 [main] INFO  testCases.TC_003_Truetime - Dates validation
+16:46:12.620 [main] INFO  testCases.TC_003_Truetime - Highlight validation
+16:46:12.731 [main] INFO  testCases.TC_003_Truetime - Printing Legends
+16:46:14.786 [main] INFO  testCases.TC_003_Truetime - validating current Date
+16:46:14.909 [main] INFO  testCases.TC_003_Truetime - validating last Date Of Truetime Topup
+16:46:14.909 [main] INFO  testCases.TC_003_Truetime - screenShot of Tru Time
+16:46:15.223 [main] INFO  testCases.TC_003_Truetime - Writing data in Apachi
+16:46:19.805 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save core properties part
+16:46:19.806 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save content types part
+16:46:20.032 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save package relationships
+16:46:20.046 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/app.xml'
+16:46:20.053 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/core.xml'
+16:46:20.070 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/sharedStrings.xml'
+16:46:20.071 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/styles.xml'
+16:46:20.071 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/workbook.xml'
+16:46:20.076 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet1.xml'
+16:46:20.079 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save content types part
+16:46:20.084 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save package relationships
+16:46:20.087 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/app.xml'
+16:46:20.088 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/core.xml'
+16:46:20.092 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/sharedStrings.xml'
+16:46:20.093 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/styles.xml'
+16:46:20.093 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/workbook.xml'
+16:46:20.097 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet1.xml'
+16:46:20.099 [main] INFO  testCases.TC_003_Truetime - __Finishing TC_002_Truetime__
+16:49:47.427 [main] DEBUG testCases.TC_003_Truetime - application logs...
+16:49:49.919 [main] INFO  testCases.TC_003_Truetime - Taking ScreenShot
+16:49:50.895 [main] INFO  testCases.TC_003_Truetime - __Starting TC_001_Truetime__
+16:49:50.896 [main] INFO  testCases.TC_003_Truetime - one Cognizant validation
+16:49:50.996 [main] INFO  testCases.TC_003_Truetime - one cognizant click
+16:49:51.526 [main] INFO  testCases.TC_003_Truetime - Switching Window
